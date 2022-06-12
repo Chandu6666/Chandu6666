@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandu6666
 - 👀 I’m interested in designing, coding, developing desktop application softwares.
 - 🌱 I’m currently learning the other tools like Microsoft Azure and Testing Tools.
-- 💞️ I’m looking to collaborate on live projects. 
+- 💞️ I’m looking to collaborate with the best organization where I can explore my skills.
 - 📫 How to reach me on chandu0611.chilukamary@gmail.com 
 
 
