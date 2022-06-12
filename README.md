@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chandu6666
 - 👀 I’m interested in designing, coding, developing desktop application softwares.
 - 🌱 I’m currently learning the other tools like Microsoft Azure and Testing Tools.
+-    I have 3 years of experience in working with VB.NET & SQL SERVER. 
 - 💞️ I’m looking to collaborate with the best organization where I can explore my skills.
 - 📫 How to reach me on chandu0611.chilukamary@gmail.com 
 
